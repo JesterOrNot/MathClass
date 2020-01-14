@@ -2,7 +2,7 @@
 
 
 class Fraction:
-    """Class for Python."""
+    """Class for Fractions in Python."""
 
     def __init__(self, numerator=1, denominator=1):
         """Defailt constructor for Fraction."""
